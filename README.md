@@ -1,3 +1,5 @@
+**Note:** This script is no longer maintained. Development has moved to [WinServiceConfigurator](https://github.com/madbomb122/WinServiceConfigurator).
+
 **NOTICES**   
 1. BlackViper is no longer releasing service configurations and His Service Configuration is now Public Domain.
 
